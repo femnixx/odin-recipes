@@ -1,4 +1,8 @@
 body {
-    font-family: 'Courier New', Courier, monospace;
-    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#title {
+    text-align: center;
+
 }
