@@ -7,10 +7,24 @@ body {
 
 }
 #title {
+    background-image: url(top-view-assortment-organic-pasta-vegetables.jpg);
+    background-size: cover; 
+    background-position: center center;
     font-weight: bolder;
     text-align: center;
     font-size: 2.5rem;
     color:#b34700;
     text-shadow: 2px 2px 2px;
     margin-bottom: 20px;
+}
+#image {
+    margin: 20px auto;
+    width: 50%;
+    border: 5px solid #b34700;
+    border-radius: 10px;
+}
+.space-box p {
+    text-align: justify;
+    margin: 15px 0;
+    font-size: 1.1rem;
 }
